@@ -1,0 +1,4 @@
+emp_no,emp_name,job,sal
+1,kalyan,PM,1000
+2,kiran,spm,2000
+3,guhan,tl,900
